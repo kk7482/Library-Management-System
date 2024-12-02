@@ -28,4 +28,16 @@ It was developed as part of the [Developer Hiring Test for Frappe](https://frapp
    python app.py
    ```  
 ![Screenshot 2024-12-01 105707](https://github.com/user-attachments/assets/899b9ab0-94c5-4b36-b1bf-88f3f54654d3)
+![Screenshot 2024-12-01 105735](https://github.com/user-attachments/assets/89c25b3a-84c4-4d2f-b023-10a95caa9c3f)
+![Screenshot 2024-12-01 105750](https://github.com/user-attachments/assets/f0191511-60ef-4c2e-842a-522aa8edc4ff)
+![Screenshot 2024-12-01 105823](https://github.com/user-attachments/assets/25ab6458-9b25-46f7-b83a-81016ba2c382)
+![Screenshot 2024-12-01 105922](https://github.com/user-attachments/assets/1e3ce102-9d59-44b9-8f69-41296487461d)
+![Screenshot 2024-12-01 105935](https://github.com/user-attachments/assets/4bb806d9-ee62-4648-99f5-e7be912ccdda)
+![Screenshot 2024-12-01 105947](https://github.com/user
+![Screenshot 2024-12-01 110009](https://github.com/user-attachments/assets/ae52383f-c342-42ed-86f4-2c1026784339)
+-attachments/assets/73c0ee7a-67c8-4dad-94aa-b9c66993e7e6)
+![Screenshot 2024-12-01 110025](https://github.com/user
+![Screenshot 2024-12-01 110051](https://github.com/user-attachments/assets/c21ee5a3-14da-4f44-a20b-f1e6aca44086)
+-attachments/assets/60fc768c-8fab-4755-9215-c4270cee5e22)
+
 

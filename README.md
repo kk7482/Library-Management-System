@@ -33,10 +33,7 @@ It was developed as part of the [Developer Hiring Test for Frappe](https://frapp
 ![Screenshot 2024-12-01 105823](https://github.com/user-attachments/assets/25ab6458-9b25-46f7-b83a-81016ba2c382)
 ![Screenshot 2024-12-01 105922](https://github.com/user-attachments/assets/1e3ce102-9d59-44b9-8f69-41296487461d)
 ![Screenshot 2024-12-01 105935](https://github.com/user-attachments/assets/4bb806d9-ee62-4648-99f5-e7be912ccdda)
-![Screenshot 2024-12-01 105947](https://github.com/user
 ![Screenshot 2024-12-01 110009](https://github.com/user-attachments/assets/ae52383f-c342-42ed-86f4-2c1026784339)
-
-![Screenshot 2024-12-01 110025](https://github.com/user
 ![Screenshot 2024-12-01 110051](https://github.com/user-attachments/assets/c21ee5a3-14da-4f44-a20b-f1e6aca44086)
 
 
